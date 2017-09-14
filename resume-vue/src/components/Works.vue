@@ -60,7 +60,6 @@
       padding 20px
       color #000
       @media screen and (max-width: 600px)
-        /*overflow-y auto*/
         max-height none
         padding 20px 0 20px
       .work-item

@@ -5,7 +5,7 @@ export const fixedNav = [
   },
   {
     iconClass: 'icon-s_blog',
-    url: 'samanthalu.site'
+    url: 'http://samanthalu.site'
   },
   {
     iconClass: 'icon-s_sf',
@@ -89,34 +89,34 @@ export const works = {
   title: '作品集',
   worksList: [
     {
-      title: '云在青天水在瓶',
-      des: '云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶',
-      url: 'https://www.baidu.com',
-      img: require('../static/img/avatar.jpg')
+      title: 'python-blog',
+      des: '学习教程的实战项目，用 Python + aiohttp + jinja2 + MySQL 写的博客网站，包括日志、用户、评论、后台管理。',
+      url: 'https://github.com/LuyanLu/pyblog',
+      img: require('../static/img/pyblog.png')
     },
     {
-      title: '云在青天水在瓶',
-      des: '云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶',
-      url: 'www.baidu.com',
-      img: require('../static/img/avatar.jpg')
+      title: 'FCC-code',
+      des: 'FreeCodeCamp代码集合，包括用react写的番茄时钟，用jQuery写的游戏和计算器等，以及fcc的算法题。',
+      url: 'http://samanthalu.site/FCC-code/pomodoro-timer/build/index.html',
+      img: require('../static/img/FCC-code.png')
     },
     {
-      title: '云在青天水在瓶',
-      des: '云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶',
-      url: 'www.baidu.com',
-      img: require('../static/img/ele1.png')
+      title: '用Vue编写的外卖App',
+      des: '使用 Vue全家桶，Less，webpack 完成的仿饿了么前端app，json模拟后端数据，实现登录、购物、查找等基本功能，实践各种CSS3新特性。',
+      url: 'http://samanthalu.site/elemeVue',
+      img: require('../static/img/eleme.png')
     },
     {
-      title: '云在青天水在瓶',
-      des: '云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶',
-      url: 'www.baidu.com',
+      title: 'SPA音乐播放器',
+      des: '网页播放器，使用Vue+axios+sass，支持滚动歌词、播放列表、播放调节，使用H5的audio标签各属性。',
+      url: 'http://samanthalu.site/music-player',
       img: require('../static/img/musicPlayer.png')
     },
     {
-      title: '云在青天水在瓶',
-      des: '云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶云在青天水在瓶',
-      url: 'www.baidu.com',
-      img: require('../static/img/avatar.jpg')
+      title: '个人简历',
+      des: '一份是轮播简历，深入使用Vue的过渡效果，自制动画效果+Animate.css，并做移动端兼容，数据代码分离；一份静态网页用gulp打包。',
+      url: 'http://samanthalu.site/resume.html',
+      img: require('../static/img/resume.png')
     }
   ]
 }
@@ -135,7 +135,7 @@ export const contact = {
     },
     {
       iconClass: 'icon-s_blog',
-      url: 'samanthalu.site'
+      url: 'http://samanthalu.site'
     },
     {
       iconClass: 'icon-s_github',
