@@ -155,6 +155,7 @@ h2 {
 }
 
 .note {
+    padding: 0 8px;
     text-indent: 2em;
     margin-top: 90px;
     color: $thirdColor;
@@ -351,4 +352,27 @@ footer a {
     100% {
         transform: scale(1);
     }
+}
+
+.fl {
+    float: left;
+    height: 200px;
+}
+
+.fr {
+    height: 200px;
+    padding-left: 130px;
+}
+
+.exp p {
+    padding-right: 80px;
+}
+
+.exp li img {
+    margin: 10px 0;
+}
+
+strong {
+    font-size: 16px;
+    color: #026055;
 }
