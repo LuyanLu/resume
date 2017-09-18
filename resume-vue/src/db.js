@@ -115,7 +115,7 @@ export const works = {
     {
       title: '个人简历',
       des: '一份是轮播简历，深入使用Vue的过渡效果，自制动画效果+Animate.css，并做移动端兼容，数据代码分离；一份静态网页用gulp打包。',
-      url: 'http://samanthalu.site/resume.html',
+      url: 'http://samanthalu.site/resume/resume.html',
       img: require('../static/img/resume.png')
     }
   ]
